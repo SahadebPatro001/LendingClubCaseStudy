@@ -100,6 +100,10 @@ Following are the summarized points from our EDA analysis on the dataset:
     6. **EDA:**
     - [Wikipedia - Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
+## Contributors:
+1. Sahadeb Patro
+2. Sivaprasad M
+
 <!--
 ## Contact
 Created by [@githubusername] - feel free to contact me!
